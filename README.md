@@ -2,7 +2,7 @@
 
 -     👩‍💻 Atualmente estou estudando Java.
 -     👨‍🎓 Bacharelado, Administração de Empresas.
--     📜 Pós Graduação em Lógística.
+-     📜 Pós Graduação em Logística.
 -     📜 Pós Graduação em Gestão e Liderança de Equipes.
 
 <div align="center">
