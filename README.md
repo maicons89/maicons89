@@ -1,6 +1,9 @@
 ### Olá! Eu sou o Maicon Santos!
 
 -     👩‍💻 Atualmente estou estudando Java.
+-     👨‍🎓 Bacharelado, Administração de Empresas.
+-     📜 Pós Graduação em Lógística.
+-     📜 Pós Graduação em Gestão e Liderança de Equipes.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
