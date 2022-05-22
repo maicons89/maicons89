@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Maicon Santos!
 
--     👨‍💻 Atualmente estou estudando Java.
+-     👨‍💻 Atualmente estou cursando Java Web.
 -     👨‍🎓 Bacharelado, Administração de Empresas.
 -     📜 Pós Graduação em Logística.
 -     📜 Pós Graduação em Gestão e Liderança de Equipes.
