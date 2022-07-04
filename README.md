@@ -1,4 +1,4 @@
-### Olá! Eu sou o Maicon Santos!
+### Olá, eu sou o Maicon Santos!
 
 -     👨‍💻 Atualmente estou cursando Java Web.
 -     👨‍🎓 Bacharelado em Administração de Empresas.
