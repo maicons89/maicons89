@@ -1,9 +1,9 @@
 ### Olá, eu sou o Maicon Santos!
 
 -     👨‍💻 Atualmente estou cursando Java Web.
--     👨‍🎓 Bacharelado em Administração de Empresas.
--     📜 Pós Graduação em Logística.
--     📜 Pós Graduação em Gestão e Liderança de Equipes.
+-     👨‍🎓 Bacharelado em Administração de Empresas. Fev 2012 -  Dez 2015
+-     📜 Pós Graduação em Logística. Abr 2020 - Dez 2021
+-     📜 Pós Graduação em Gestão e Liderança de Equipes. Dez 2021 - Jun 2022
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
