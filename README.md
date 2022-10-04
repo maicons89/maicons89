@@ -18,5 +18,5 @@
     
 ![Snake animation](https://github.com/maicons89/maicons89/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+  </div>
 
