@@ -1,4 +1,3 @@
-      Olá,
 
 -     👨‍💻 Atualmente estou cursando Java Web.
 -     👨‍🎓 Bacharelado em Administração de Empresas. Fev 2012 -  Dez 2015
