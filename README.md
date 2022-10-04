@@ -1,3 +1,5 @@
+      Olá,
+
 -     👨‍💻 Atualmente estou cursando Java Web.
 -     👨‍🎓 Bacharelado em Administração de Empresas. Fev 2012 -  Dez 2015
 -     📜 Pós Graduação em Logística. Abr 2020 - Dez 2021
