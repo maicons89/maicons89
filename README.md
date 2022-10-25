@@ -1,5 +1,5 @@
 
--     👨‍💻 Atualmente estou cursando Java Web.
+-     👨‍💻 Desenvolvedor Java. Abr 2022 - Out 2022
 -     👨‍🎓 Bacharelado em Administração de Empresas. Fev 2012 -  Dez 2015
 -     📜 Pós Graduação em Logística. Abr 2020 - Dez 2021
 -     📜 Pós Graduação em Gestão e Liderança de Equipes. Dez 2021 - Jun 2022
